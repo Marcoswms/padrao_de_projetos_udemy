@@ -1,7 +1,7 @@
-package br.com.cod3r.factory.apple;
+package br.com.cod3r.factory.apple.simple;
 
-import br.com.cod3r.factory.apple.factory.IPhoneSimpleFactory;
-import br.com.cod3r.factory.apple.model.IPhone;
+import br.com.cod3r.factory.apple.simple.factory.IPhoneSimpleFactory;
+import br.com.cod3r.factory.apple.simple.model.IPhone;
 
 public class Client {
 	

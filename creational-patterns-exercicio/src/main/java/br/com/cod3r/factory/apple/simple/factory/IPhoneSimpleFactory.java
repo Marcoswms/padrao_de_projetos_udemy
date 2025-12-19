@@ -1,6 +1,6 @@
-package br.com.cod3r.factory.apple.factory;
+package br.com.cod3r.factory.apple.simple.factory;
 
-import br.com.cod3r.factory.apple.model.*;
+import br.com.cod3r.factory.apple.simple.model.*;
 
 public class IPhoneSimpleFactory {
 
